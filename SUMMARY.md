@@ -1,8 +1,5 @@
 # Table of contents
 
-* [关于Lava](README.md)
-* [Untitled](untitled.md)
-
 ## 关于Lava
 
 * [Untitled](guan-yu-lava/untitled.md)
