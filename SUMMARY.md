@@ -1,2 +1,2 @@
 # Summary
-* [介绍](README.md)
+* [关于Lava](README.md)
