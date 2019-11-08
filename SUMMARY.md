@@ -11,8 +11,10 @@
 
 ## 钱包 <a id="wallet"></a>
 
+* [了解Lava钱包](wallet/wallet-basics.md)
 * [Windows全节点钱包教程](wallet/wallet-lavacore-win.md)
 * [Windows全节点GUI钱包教程](wallet/wallet-guiwallet.md)
+* [Windows轻钱包教程](wallet/wallet-winlightwallet.md)
 * [Android轻钱包教程](wallet/wallet-androidlightwallet.md)
 
 ## 挖矿 <a id="mining"></a>
