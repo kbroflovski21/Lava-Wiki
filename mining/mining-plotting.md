@@ -24,7 +24,7 @@ PRO版：[https://www.kuangjiwan.com/goods-58.html](https://www.kuangjiwan.com/g
 
 UNLIMITED版：[https://www.kuangjiwan.com/goods-60.html](https://www.kuangjiwan.com/goods-60.html)
 
-## 步骤二、启动P盘软件
+## 步骤二：启动P盘软件
 
 第一次打开TurboPlotter时，界面会提示是否已有`Plot文件`。对于第一次使用并P盘的用户，请选择No。
 
@@ -34,7 +34,7 @@ UNLIMITED版：[https://www.kuangjiwan.com/goods-60.html](https://www.kuangjiwan
 
 ![](../.gitbook/assets/img3.png) 
 
-## 步骤三、生成Plot ID
+## 步骤三：生成Plot ID
 
 用户可以在全节点钱包内自行生成`Plot ID`。
 
@@ -50,7 +50,7 @@ UNLIMITED版：[https://www.kuangjiwan.com/goods-60.html](https://www.kuangjiwan
 
 Lava-cli 会返回 `address`和 `plot id`两个数据。`address`就是用于挖矿并接受出块奖励的地址，`Plot ID`为对应此地址的Plot ID。
 
-## 步骤四、P盘参数设定
+## 步骤四：P盘参数设定
 
 在上文步骤二提及的界面中输入`Plot ID`后，就可以进入P盘主界面。
 
@@ -70,7 +70,7 @@ Lava-cli 会返回 `address`和 `plot id`两个数据。`address`就是用于挖
 
 `RAM to use`选项：显示可用于P盘的系统内存。
 
-## 步骤五、开始P盘
+## 步骤五：开始P盘
 
 ![](../.gitbook/assets/img7.png)
 
