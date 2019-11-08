@@ -14,7 +14,9 @@
 
 用户请根据个人需求选择并下载。
 
- ![](../.gitbook/assets/img1.png) 
+  
+
+![](../.gitbook/assets/img1.png)
 
 _下载链接参考_：
 
@@ -44,7 +46,9 @@ UNLIMITED版：[https://www.kuangjiwan.com/goods-60.html](https://www.kuangjiwan
 .\lava-cli.exe -rpcuser=test -rpcpassword=test getmineraddress
 ```
 
-![img4.png](https://github.com/lavafy/testnet/blob/master/imgs/img4.png)
+ 
+
+![](../.gitbook/assets/img4.png)
 
 Lava-cli 会返回 `address`和 `plot id`两个数据。`address`就是用于挖矿并接受出块奖励的地址，`Plot ID`为对应此地址的Plot ID。
 
@@ -52,7 +56,9 @@ Lava-cli 会返回 `address`和 `plot id`两个数据。`address`就是用于挖
 
 在上文步骤二提及的界面中输入`Plot ID`后，就可以进入P盘主界面。
 
-![img5.png](https://github.com/lavafy/testnet/blob/master/imgs/img5.png)
+ 
+
+![](../.gitbook/assets/img5.png)
 
 `Processor`选项: 请选择使用CPU或GPU进行P盘。我们推荐使用性能优秀的GPU进行P盘，可大幅提升P盘效率。
 
@@ -62,7 +68,9 @@ Lava-cli 会返回 `address`和 `plot id`两个数据。`address`就是用于挖
 
 `Start nonce`选项： 默认从0开始，如无特殊要求可直接选择自动模式（automatic）。Choose from file 表示继续P上次暂停的文件。
 
-![img6.png](https://github.com/lavafy/testnet/blob/master/imgs/img6.png)
+ 
+
+![](../.gitbook/assets/img6.png)
 
 `Max file size`选项：定义您想要生成的单个Plot文件的体积；默认情况下软件会根据目标盘的可用剩余空间自适配。但我们建议不要超过1T，以防因P盘意外中断导致重新P盘耗时过多。
 
@@ -70,13 +78,17 @@ Lava-cli 会返回 `address`和 `plot id`两个数据。`address`就是用于挖
 
 ### 步骤五、开始P盘
 
-![img7.png](https://github.com/lavafy/testnet/blob/master/imgs/img7.png)
+ 
+
+![](../.gitbook/assets/img7.png)
 
 完成以上设定后，点击Start plotting就可以开始P盘了。
 
 P盘中途如想暂停P盘，可点击pause（暂停）按钮 `（警告：P盘程序可以暂停，但是不能退出。如果退出程序再进入，只能重新开始P盘。一般情况下，我们建议不要随意中断P盘进程。）`
 
-![img8.png](https://github.com/lavafy/testnet/blob/master/imgs/img8.png)
+
+
+![](../.gitbook/assets/img8.png)
 
 开始P盘后，程序显示以上界面，展示计算nonce和写入硬盘的速度，以及预计的剩余时间。
 
