@@ -23,6 +23,6 @@
 
 ## 火石 <a id="firestone"></a>
 
-* [火石教程](firestone/firestone-firestone.md)
-* [Untitled](firestone/untitled.md)
+* [了解火石](firestone/firestone-firestone.md)
+* [了解冷火石](firestone/firestone-coldfirestone.md)
 
