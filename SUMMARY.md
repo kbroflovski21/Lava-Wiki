@@ -6,7 +6,7 @@
 
 * [关于Lava百科](about/about-lavawiki.md)
 * [了解Lava](about/about-learninglava.md)
-* [参考链接](about/about-links.md)
+* [参考链接汇总](about/about-links.md)
 * [下载汇总](about/about-downloads.md)
 
 ## 钱包 <a id="wallet"></a>
