@@ -70,7 +70,7 @@ Lava-cli 会返回 `address`和 `plot id`两个数据。`address`就是用于挖
 
 `RAM to use`选项：显示可用于P盘的系统内存。
 
-### 步骤五、开始P盘
+## 步骤五、开始P盘
 
 ![](../.gitbook/assets/img7.png)
 
