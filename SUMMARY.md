@@ -31,3 +31,9 @@
 * [购买与释放火石](firestone/firestone-firetoneoperation.md)
 * [了解冷火石](firestone/firestone-coldfirestone.md)
 
+## 技术社区 <a id="geeks"></a>
+
+* [Lava开源代码](geeks/geeks-opensource.md)
+* [了解LVIP](geeks/geeks-lvipbasics.md)
+* [LVIP列表](geeks/geeks-lviplist.md)
+
