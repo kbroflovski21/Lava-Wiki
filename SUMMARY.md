@@ -23,9 +23,11 @@
 * [P盘教程](mining/mining-plotting.md)
 * [Miner教程](mining/mining-miner.md)
 * [了解算力绑定](mining/mining-binding.md)
+* [发起与解除算力绑定](mining/mining-bindingoperation.md)
 
 ## 火石 <a id="firestone"></a>
 
 * [了解火石](firestone/firestone-firestone.md)
+* [购买与释放火石](firestone/firestone-firetoneoperation.md)
 * [了解冷火石](firestone/firestone-coldfirestone.md)
 
