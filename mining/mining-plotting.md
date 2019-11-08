@@ -1,6 +1,8 @@
+# P盘教程
+
 ## 概念介绍
 
->“P盘”是`Plotting`的俗称，指生成`Plot文件`并填入硬盘的过程。`Plot文件`是PoC挖矿所必须的基础数据，矿工的硬盘空余容量越大，即可填入更多`Plot文件`，增加成功出块的概率。如果您想参与Lava挖矿，必须在挖矿前预先完成P盘工作。
+> “P盘”是`Plotting`的俗称，指生成`Plot文件`并填入硬盘的过程。`Plot文件`是PoC挖矿所必须的基础数据，矿工的硬盘空余容量越大，即可填入更多`Plot文件`，增加成功出块的概率。如果您想参与Lava挖矿，必须在挖矿前预先完成P盘工作。
 
 ## 步骤一：下载P盘软件
 
@@ -12,50 +14,45 @@
 
 用户请根据个人需求选择并下载。
 
-![img1.png](https://github.com/lavafy/testnet/blob/master/imgs/img1.png)
+ ![](../.gitbook/assets/img1.png) 
 
-
-##### *下载链接参考*：
+_下载链接参考_：
 
 PRO版：[https://www.kuangjiwan.com/goods-58.html](https://www.kuangjiwan.com/goods-58.html)
 
 UNLIMITED版：[https://www.kuangjiwan.com/goods-60.html](https://www.kuangjiwan.com/goods-60.html)
 
-
-
 ## 步骤二、启动P盘软件
 
 第一次打开TurboPlotter时，界面会提示是否已有`Plot文件`。对于第一次使用并P盘的用户，请选择No。
 
-![img2.png](https://github.com/lavafy/testnet/blob/master/imgs/img2.png)
+![](../.gitbook/assets/img2.png) 
 
 在进行P盘前，软件会要求用户填写“address”或“account ID”，此处实际是指您的`Plot ID`。请正确填写您准备好的`Plot ID`；如果没有准备，请跳转后一步骤准备Plot ID。
 
-![img3.png](https://github.com/lavafy/testnet/blob/master/imgs/img3.png)
-
-
+![](../.gitbook/assets/img3.png) 
 
 ## 步骤三、生成Plot ID
 
 用户可以在全节点钱包内自行生成`Plot ID`。
 
-欲获取Lava全节点钱包，请前往Lava官网([www.lavatech.org](www.lavatech.org))顶部的下载栏目选择适用的环境版本进行下载。
+欲获取Lava全节点钱包，请前往Lava官网\([www.lavatech.org](https://github.com/kbroflovski21/Lava-Wiki/tree/c03583a72be36d99622a8cdf299afba2bb5c3878/mining/www.lavatech.org)\)顶部的下载栏目选择适用的环境版本进行下载。
 
-运行全节点钱包（请先确认lavad成功同步到区块链），输入命令: 
-```
+运行全节点钱包（请先确认lavad成功同步到区块链），输入命令:
+
+```text
 .\lava-cli.exe -rpcuser=test -rpcpassword=test getmineraddress
 ```
+
 ![img4.png](https://github.com/lavafy/testnet/blob/master/imgs/img4.png)
 
 Lava-cli 会返回 `address`和 `plot id`两个数据。`address`就是用于挖矿并接受出块奖励的地址，`Plot ID`为对应此地址的Plot ID。
-
 
 ## 步骤四、P盘参数设定
 
 在上文步骤二提及的界面中输入`Plot ID`后，就可以进入P盘主界面。
 
 ![img5.png](https://github.com/lavafy/testnet/blob/master/imgs/img5.png)
-
 
 `Processor`选项: 请选择使用CPU或GPU进行P盘。我们推荐使用性能优秀的GPU进行P盘，可大幅提升P盘效率。
 
@@ -71,19 +68,15 @@ Lava-cli 会返回 `address`和 `plot id`两个数据。`address`就是用于挖
 
 `RAM to use`选项：显示可用于P盘的系统内存。
 
-
-
-#### 步骤五、开始P盘
+### 步骤五、开始P盘
 
 ![img7.png](https://github.com/lavafy/testnet/blob/master/imgs/img7.png)
-
 
 完成以上设定后，点击Start plotting就可以开始P盘了。
 
 P盘中途如想暂停P盘，可点击pause（暂停）按钮 `（警告：P盘程序可以暂停，但是不能退出。如果退出程序再进入，只能重新开始P盘。一般情况下，我们建议不要随意中断P盘进程。）`
 
 ![img8.png](https://github.com/lavafy/testnet/blob/master/imgs/img8.png)
-
 
 开始P盘后，程序显示以上界面，展示计算nonce和写入硬盘的速度，以及预计的剩余时间。
 
