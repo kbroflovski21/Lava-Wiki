@@ -1,18 +1,20 @@
+# Miner教程
+
 ## 步骤一：下载Lava Miner
 
-首先下载挖矿软件（Lava Miner），可前往Lava官网（www.lavatech.org）  顶部的下载栏目->Miner进行最新版本的下载。
+首先下载挖矿软件（Lava Miner），可前往Lava官网（www.lavatech.org） 顶部的下载栏目-&gt;Miner进行最新版本的下载。
 
-![abc1.png](https://github.com/lavafy/testnet/blob/master/imgs/abc1.png)
+![](../.gitbook/assets/abc1.png)
 
 ## 步骤二：设置配置文件
 
-完成下载后，首先需要配置好`miner.conf` 文件：  
-![abc2.png](https://github.com/lavafy/testnet/blob/master/imgs/abc2.png)
+完成下载后，首先需要配置好`miner.conf` 文件：
 
+![](../.gitbook/assets/abc2.png)
 
 按照如下配置设置：
- 
- { "Mode" :  "pool",
+
+{ "Mode" : "pool",
 
 "Server" : 目标服务器地址，如"192.168.3.86", 即钱包节点所在的地址；如果lavad和Miner都在本机上跑，就填写“127.0.0.1”。
 
@@ -32,37 +34,37 @@
 
 "InfoAddr" : "127.0.0.1",不填写则默认本机。
 
-"InfoPort": "8124", 
+"InfoPort": "8124",
 
-"EnableProxy": false, 
+"EnableProxy": false,
 
-"ProxyPort": 8126, 
+"ProxyPort": 8126,
 
-"Paths": P 盘的盘符数组，形如：["E:\\","C:\\"], 如果有多个盘符，就输入多个，中间以逗号隔开
+"Paths": P 盘的盘符数组，形如：\["E:\","C:\"\], 如果有多个盘符，就输入多个，中间以逗号隔开
 
-"CacheSize" : 16384, 
+"CacheSize" : 16384,
 
-"CacheSize2" : 262144, 
+"CacheSize2" : 262144,
 
-"Debug": true, 
+"Debug": true,
 
 "UseHDDWakeUp": true, （如果不想看到HDD WAKEUP提示，可以设定为“false”）
 
-"TargetDeadline": 80000000, 
+"TargetDeadline": 80000000,
 
-"SendInterval": 100, 
+"SendInterval": 100,
 
-"UpdateInterval": 950, 
+"UpdateInterval": 950,
 
-"UseLog" : true, 
+"UseLog" : true,
 
-"ShowWinner" : false, 
+"ShowWinner" : false,
 
-"UseBoost" : false, 
+"UseBoost" : false,
 
-"MinerName": "sun", （单台矿机的识别名字） 
+"MinerName": "sun", （单台矿机的识别名字）
 
-"WinSizeX": 76, 
+"WinSizeX": 76,
 
 "WinSizeY": 60 }
 
@@ -70,14 +72,11 @@ a.主网RPC端口为8332，测试网RPC端口为18332；
 
 b. 挖矿启动一定要加rpcuser与rpcpassword；
 
-c. 挖矿配置文件需要配置("Server" ,"Port","OwnerAddr" ,"HttpAccount" ,"HttpPassWord" ,"UpdaterAddr" ,"UpdaterPort",  "Paths")
+c. 挖矿配置文件需要配置\("Server" ,"Port","OwnerAddr" ,"HttpAccount" ,"HttpPassWord" ,"UpdaterAddr" ,"UpdaterPort", "Paths"\)
 
 d.挖矿地址要与Plot ID相对应。
-
 
 ## 步骤三：开始挖矿
 
 配置完成后，保存，并将该文件放在 lava-miner.exe 相同的目录下，然后启动lavad，并等待钱包成功同步；钱包成功同步后，双击 lava-miner.exe 即可开启挖矿。
-
-
 

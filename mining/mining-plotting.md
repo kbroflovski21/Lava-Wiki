@@ -2,7 +2,7 @@
 
 ## 概念介绍
 
- P盘是`Plotting`的俗称，指生成`Plot文件`并填入硬盘的过程。`Plot文件`是PoC挖矿所必须的基础数据，矿工的硬盘空余容量越大，即可填入更多`Plot文件`，增加成功出块的概率。如果您想参与Lava挖矿，必须在挖矿前预先完成P盘工作。
+P盘是`Plotting`的俗称，指生成`Plot文件`并填入硬盘的过程。`Plot文件`是PoC挖矿所必须的基础数据，矿工的硬盘空余容量越大，即可填入更多`Plot文件`，增加成功出块的概率。如果您想参与Lava挖矿，必须在挖矿前预先完成P盘工作。
 
 ## 步骤一：下载P盘软件
 
@@ -13,8 +13,6 @@
 付费版本（PRO版本以及UNLIMITED版本）则可以支持同时P更多盘，具体性能请参考blackpawn官网说明（以下为截图，仅供参考）。
 
 用户请根据个人需求选择并下载。
-
-  
 
 ![](../.gitbook/assets/img1.png)
 
@@ -28,11 +26,11 @@ UNLIMITED版：[https://www.kuangjiwan.com/goods-60.html](https://www.kuangjiwan
 
 第一次打开TurboPlotter时，界面会提示是否已有`Plot文件`。对于第一次使用并P盘的用户，请选择No。
 
-![](../.gitbook/assets/img2.png) 
+![](../.gitbook/assets/img2.png)
 
 在进行P盘前，软件会要求用户填写“address”或“account ID”，此处实际是指您的`Plot ID`。请正确填写您准备好的`Plot ID`；如果没有准备，请跳转后一步骤准备Plot ID。
 
-![](../.gitbook/assets/img3.png) 
+![](../.gitbook/assets/img3.png)
 
 ## 步骤三：生成Plot ID
 
