@@ -2,6 +2,10 @@
 
 _\*注释：“冷火石”是LVIP-0002改进提案所提出的设想，目前尚未被更新到共识中。_
 
+如需查看LVIP-0002原文，请前往：
+
+[https://github.com/lavaio/lvips/blob/master/livp-0002.mediawiki](https://github.com/lavaio/lvips/blob/master/livp-0002.mediawiki)
+
 ## 概述
 
 LVIP-0002建议了一种允许用户预先构造花费火石的交易，即冷火石。
