@@ -1,10 +1,8 @@
 # 了解冷火石
 
-_\*注释：“冷火石”是LVIP-0002改进提案所提出的设想，目前尚未被更新到共识中。_
+_\*注释：“冷火石”是LVIP-0002改进提案所提出的设想，目前尚未被更新到共识中。如需查看LVIP-0002原文，请前往：_
 
-如需查看LVIP-0002原文，请前往：
-
-[https://github.com/lavaio/lvips/blob/master/livp-0002.mediawiki](https://github.com/lavaio/lvips/blob/master/livp-0002.mediawiki)
+\_\_[_https://github.com/lavaio/lvips/blob/master/livp-0002.mediawiki_](https://github.com/lavaio/lvips/blob/master/livp-0002.mediawiki)\_\_
 
 ## 概述
 
