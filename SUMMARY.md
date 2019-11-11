@@ -14,6 +14,7 @@
 * [了解火石](firestone/firestone-firestone.md)
 * [购买与释放火石](firestone/firestone-firetoneoperation.md)
 * [了解冷火石](firestone/firestone-coldfirestone.md)
+* [加工和使用冷火石](firestone/firestone-coldfsoperation.md)
 
 ## 挖矿 <a id="mining"></a>
 
