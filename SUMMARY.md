@@ -15,6 +15,7 @@
 * [购买与释放火石](firestone/firestone-firetoneoperation.md)
 * [了解冷火石](firestone/firestone-coldfirestone.md)
 * [加工和使用冷火石](firestone/firestone-coldfsoperation.md)
+* [火石FAQ](firestone/firestone-faq.md)
 
 ## 挖矿 <a id="mining"></a>
 
@@ -23,6 +24,7 @@
 * [Miner教程](mining/mining-miner.md)
 * [了解算力绑定](mining/mining-binding.md)
 * [发起与解除算力绑定](mining/mining-bindingoperation.md)
+* [挖矿FAQ](mining/mining-faq.md)
 
 ## 技术社区 <a id="geeks"></a>
 
@@ -38,4 +40,5 @@
 * [Windows全节点GUI钱包教程](wallet/wallet-guiwallet.md)
 * [Windows轻钱包教程](wallet/wallet-winlightwallet.md)
 * [Android轻钱包教程](wallet/wallet-androidlightwallet.md)
+* [钱包FAQ](wallet/wallet-faq.md)
 
