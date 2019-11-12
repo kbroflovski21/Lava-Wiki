@@ -19,7 +19,7 @@
 
 ## 挖矿 <a id="mining"></a>
 
-* [PoC共识](mining/mining-poc.md)
+* [了解PoC共识](mining/mining-poc.md)
 * [P盘教程](mining/mining-plotting.md)
 * [Miner教程](mining/mining-miner.md)
 * [了解算力绑定](mining/mining-binding.md)
