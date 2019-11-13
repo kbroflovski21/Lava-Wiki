@@ -68,13 +68,21 @@ Panel小组成员以集体讨论和集体决策为核心组织制度维持Panel�
 
 <pre>
 LVIP: 编号
+
 Title: 名称（能够表达该LVIP的主要内容）
+
 Author: 作者，可以匿名
+
 Status: LVIP状态，包括Draft、Accepted、Replaced
+
 Type: LVIP的类型，包括Protocol、Non-Protocol
+
 Created: 创建时间
+
 Superseded-By: 如果被Replaced，则展示后继者的LVIP编号。
+
 </pre>
+
 此外，作者应在LVIP的正文中描述以下内容：
 
 ·提出LVIP的动机，和试图解决的问题。
