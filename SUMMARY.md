@@ -32,6 +32,7 @@
 * [了解LVIP](geeks/geeks-lvipbasics.md)
 * [LVIP列表](geeks/geeks-lviplist.md)
 * [跨链原子交换机](geeks/geeks-atomicswap.md)
+* [冷火石](geeks/geeks-coldfs.md)
 
 ## 钱包 <a id="wallet"></a>
 
