@@ -34,6 +34,7 @@
 * [发展路线图](geeks/geeks-roadmap.md)
 * [跨链原子交换机](geeks/geeks-atomicswap.md)
 * [冷火石](geeks/geeks-coldfs.md)
+* [赏金计划-开源P盘软件](geeks/geeks-bountyforplotter.md)
 
 ## 钱包 <a id="wallet"></a>
 
