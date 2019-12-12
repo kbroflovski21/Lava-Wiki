@@ -42,7 +42,7 @@
 * [了解Lava钱包](wallet/wallet-basics.md)
 * [Windows全节点钱包教程](wallet/wallet-lavacore-win.md)
 * [Windows全节点GUI钱包教程](wallet/wallet-guiwallet.md)
-* [Windows轻钱包教程](wallet/windows-winlightwallet.md)
+* [Windows轻钱包教程](wallet/wallet-winlightwallet.md)
 * [Android轻钱包教程](wallet/wallet-androidlightwallet.md)
 * [钱包FAQ](wallet/wallet-faq.md)
 
